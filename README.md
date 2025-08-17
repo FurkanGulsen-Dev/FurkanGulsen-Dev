@@ -8,10 +8,10 @@
 ---
 
 ## 👨‍💻 About Me
-- I’m a **Software Engineer** specialized in **C#, .NET, SQL, HTML, CSS, JavaScript, Arduino, and Windows Form Applications**  
-- I build **desktop and web applications** with a focus on **clean code and performance**  
-- Freelancer with multiple successful projects and ⭐⭐⭐⭐⭐ client reviews  
-- Passionate about **problem solving, automation, and scalable systems**  
+- I am a **Software Engineer** specialized in **C#, .NET, SQL, HTML, CSS, JavaScript, Arduino, and Windows Forms**  
+- I develop **desktop and web applications** with a focus on clean code, usability, and performance  
+- Experienced freelancer with multiple successful projects and ⭐⭐⭐⭐⭐ client reviews  
+- Passionate about **automation, scalable systems, and problem-solving**  
 
 ---
 
@@ -23,12 +23,14 @@
 
 ---
 
-## 🔥 Highlighted Projects
-* **Kuyumcu Yönetim Sistemi** – Stok, satış ve finans raporlama yazılımı  
-* **E-Ticaret Otomasyonu** – Sipariş, ürün ve ödeme entegrasyonu  
-* **League of Legends Botu** – OpenCV ile otomatik oyun botu  
-* **Instagram Reels Paylaşma Botu** – Zamanlanmış/anlık Reels yükleme, başlık & etiket otomasyonu  
-* **Oyun Launcherleri** – Tek bir yerden oyunları yönetme, otomatik güncelleme, kullanıcı dostu arayüz  
+## 🔥 Featured Projects
+- 🛒 **E-Commerce Automation** – Product, order, and payment management system  
+- 🎮 **League of Legends Bot** – Automated gameplay bot using OpenCV  
+- 📸 **Instagram Reels Bot** – Automated/scheduled Reels posting with captions & hashtags  
+- 🎮 **Game Launchers** – Custom launchers to manage and update games easily  
+- 🌱 **Greenhouse Simulation & Automation** – Plant growth, irrigation, and climate control system  
+- 🖥 **Windows Forms Applications** – Multiple desktop tools for various use cases  
+- 📡 **Arduino Projects** – Sensor integration & automation systems  
 
 ---
 
